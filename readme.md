@@ -1,3 +1,5 @@
+**Goal:** Identify the best text match strategy to use during template binding in the Fornello application.
+
 Setup project:
 
 ``` 
