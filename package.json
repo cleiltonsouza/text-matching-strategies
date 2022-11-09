@@ -9,10 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fuzzy-search": "^3.2.1"
+    "fuzzy-search": "^3.2.1",
+    "fuzzyset.js": "^1.0.7"
   },
   "devDependencies": {
     "@types/fuzzy-search": "^2.1.2",
+    "@types/fuzzyset.js": "^0.0.2",
     "@types/jest": "^29.2.2",
     "@types/node": "^18.11.9",
     "fuse.js": "^6.6.2",

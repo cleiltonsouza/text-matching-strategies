@@ -19,6 +19,7 @@ let str1 = 'data/cpf';
 
 str1 = 'data/numb';
 
+// Calcula o número mínimo de edições necessárias para tornar uma string em outra  
 values.forEach(value => {
     console.log(levenshteinDistance(str1.toLowerCase(), value.toLowerCase()));
 })
