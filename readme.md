@@ -17,3 +17,9 @@ Run Jest tests with the command below:
 ``` 
     npm test
 ```
+
+The test directory has some tests for the following libraries:
+```
+    fuzzy-search
+    fuzzyset.js
+```
